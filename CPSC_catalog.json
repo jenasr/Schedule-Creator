@@ -1,0 +1,785 @@
+{
+	"courses":[
+	  {
+	    "id": "CPSC-120",
+	    "course_name": "Intro to Programming",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Lower Division",
+	    "prerequisite": "N/A",
+	    "corequisite": "Math 125",
+	    "description": "Introduction to the concepts underlying all computer programming: design and execution of programs; sequential nature of programs; use of assignment, control and input/output statements to accomplish desired tasks; design and use of functions. Structured and object-oriented methodologies. (1.5 hours lecture, 3 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-121",
+	    "course_name": "Object-Oriented Programming",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Lower Division",
+	    "prerequisite": "CPSC 120 or passing score on Computer Science Placement Exam.",
+	    "corequisite": "N/A",
+	    "description": "The object-oriented programming paradigm: classes, member functions, interfaces, inheritance, polymorphism, and exceptions. Design practices including encapsulation, decoupling, and documentation. Pointers/references and memory management. Recursion. (2 hours lecture, 2 hours activity). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-131",
+	    "course_name": "Data Structures",
+	    "units": 3.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Lower Division",
+	    "prerequisite": "CPSC 121 or passing score on Computer Science Placement Exam.",
+	    "corequisite": "N/A",
+	    "description": "Classical data structures: vector, linked list, stack, queue, binary search tree, and graph representations. Worst-case analysis, amortized analysis, and big-O notation. Object-oriented and recursive implementation of data structures. Self-resizing vectors and self-balancing trees. Empirical performance measurement. Undergraduate Course not available for Graduate Credit"
+	  },
+		{
+	    "id": "CPSC-311",
+	    "course_name": "Technical Writing for Computer Science",
+	    "units": 3.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "N/A",
+	    "corequisite": "N/A",
+	    "description": "N/A"
+	  },
+	  {
+	    "id": "CPSC-223C",
+	    "course_name": "C Programming",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Lower Division",
+	    "prerequisite": "CPSC 131",
+	    "corequisite": "N/A",
+	    "description": "Systems programming in the C language, including its syntax and semantics; essential idioms; important parts of the C11 and POSIX C APIs; security issues; and notable extensions libraries. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-223J",
+	    "course_name": "Java Programming",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Lower Division",
+	    "prerequisite": "CPSC 131",
+	    "corequisite": "N/A",
+	    "description": "Characteristics of Java: portable, robust, secure, object-oriented, high performance; using the Java environment; server administration; types, expressions and control flow; classes, interfaces and packages; threads; exceptions; class libraries; Java for the Internet; tools, the Java Virtual machine. (2 hours lecture, 2 hours lab per week). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-223N",
+	    "course_name": "Visual C# Programming",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Lower Division",
+	    "prerequisite": "CPSC 131",
+	    "corequisite": "N/A",
+	    "description": "Characteristics of C#, object-oriented design concepts, control structures, methods, arrays, classes, objects, inheritance, polymorphism, exception handling, graphical user interfaces, multithreading, characters, strings, files, streams. Rudiments of the Unified Modeling Language Software development assignments. (2 hours lecture, 2 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-223P",
+	    "course_name": "Python Programming",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Lower Division",
+	    "prerequisite": "CPSC 131",
+	    "corequisite": "N/A",
+	    "description": "Characteristics of Python: portable, robust, secure, object-oriented, functional, high performance, extensible; types, expressions, and control flow; classes, abstract base classes, modules, and packages; threads; exceptions; Python standard library. 2 hours lecture and 2 hours laboratory per week). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-240",
+	    "course_name": "Computer Organization and Assembly",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Lower Division",
+	    "prerequisite": "CPSC 131; MATH 270A or MATH 280.",
+	    "corequisite": "N/A",
+	    "description": "Digital logic and architecture of a computer system, machine level representation of data, memory system organization, structure of low-level computer languages. Machine, assembly, and macro language programming. Principles of assembler operation, input-output programming, interrupt/exception handling. Laboratory programming assignments. (2 hours lecture, 2 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-315",
+	    "course_name": "Professional Ethics in Computing",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 131; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Ethics and moral philosophy as applied to software and digital artifacts. Notions of rights, responsibilities, property, ownership, privacy, security, and professional ethics. Security obligations. Intellectual propertystatutes, licenses, and their terms. Oral and written reports are required. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-323",
+	    "course_name": "Compilers and Languages",
+	    "units": 3.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 131; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Basic concepts of programming languages and principles of translation. Topics include history of programming languages, various programming paradigms, language design issues and criteria, design of compilers for modern programming languages. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-332",
+	    "course_name": "File Structures and Database Systems",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 131; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Fundamental theories and design of database systems, the Structured Query Language (SQL), basic concepts and techniques of data organization in secondary storage. Topics include introduction to database systems, ER model, relational model, index structures and hashing techniques. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-335",
+	    "course_name": "Algorithm Engineering",
+	    "units": 3.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "MATH 270B, CPSC 131; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Algorithm design using classical patterns: exhaustive search, divide and conquer, randomization, hashing, reduction, dynamic programming, and the greedy method. Asymptotic and experimental efficiency analysis. NP-completeness and decidability. Implementing algorithms to solve practical problems. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-351",
+	    "course_name": "Operating Systems Concepts",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 131 or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Resource management, memory organization, input/output, control process synchronization and other concepts as related to the objectives of multi-user operating systems. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-353",
+	    "course_name": "Introduction to Computer Security",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 131 or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Security goals, security systems, access controls, networks and security, integrity, cryptography fundamentals, authentication. Attacks: software, network, website; management considerations, security standards in government and industry; security issues in requirements, architecture, design, implementation, testing, operation, maintenance, acquisition, and services. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-362",
+	    "course_name": "Foundations of Software Engineering",
+	    "units": 3.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 131; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Basic concepts, principles, methods, techniques and practices of software engineering. All aspects of the software engineering fields. Use Computer-Aided Software Engineering (CASE) tools. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-471",
+	    "course_name": "Computer Communications",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 351; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Introduction to digital data communications. Terminology, networks and their components, common-carrier services, telecommunication facilities, terminals, error control, multiplexing and concentration techniques. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-481",
+	    "course_name": "Artificial Intelligence",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 335, MATH 338; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Using computers to simulate human intelligence. Production systems, pattern recognition, problem solving, searching game trees, knowledge representation and logical reasoning. Programming in AI environments. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-490",
+	    "course_name": "Undergraduate Seminar in Computer Science",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 362, junior or senior standing, Computer Science major.",
+	    "corequisite": "N/A",
+	    "description": "Review of foundational computer science theories and principles, real-world application development methods and processes, and industry practices. Survey of modern computing technologies. Research methods. Identification of research or practical application problems. Writing and presenting a proposal for a capstone project. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-491",
+	    "course_name": "Senior Capstone Project in Computer Science",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 490.",
+	    "corequisite": "N/A",
+	    "description": "A computer science research or real-world level of application development project. Business communication. Presenting the results to a wide range of audiences. Demonstrating the culminating experience of the practicum in computer science. Writing a final project report and technical documents such as user manuals, installation guides, feasibility study reports. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-150A",
+	    "course_name": "Calculus I",
+	    "units": 4.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Mathematics Requirements",
+	    "prerequisite": "passing score on ALEKS; or passing score or exemption on MQE; or MATH 125 with C (2.0) or better.",
+	    "corequisite": "N/A",
+	    "description": "Properties of functions. The limit, derivative and definite integral concepts; applications of the derivative, techniques and applications of integration. Six units of credit are given for both MATH 130 and MATH 150A, or for both MATH 135 and MATH 150A. Biology, geology and earth science majors who pass ALEKS must take MATH 130. CBE majors who pass ALEKS must take MATH 135. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-150B",
+	    "course_name": "Calculus II",
+	    "units": 4.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Mathematics Requirements",
+	    "prerequisite": "Math 150A",
+	    "corequisite": "N/A",
+	    "description": "Techniques of integration, improper integrals and applications of integration. Introduction to differential equations. Parametric equations, sequences and series. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-270A",
+	    "course_name": "Mathematical Structures I",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Mathematics Requirements",
+	    "prerequisite": "N/A",
+	    "corequisite": "N/A",
+	    "description": "First of two semesters of fundamental discrete mathematical concepts and techniques needed in computer-related disciplines. Logic, truth tables, elementary set theory, proof techniques, combinatorics and Boolean algebra. Must have completed four years of high school mathematics. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-270B",
+	    "course_name": "Mathematical Structures II",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Mathematics Requirements",
+	    "prerequisite": "Math 270A",
+	    "corequisite": "N/A",
+	    "description": "Second of two semesters of fundamental discrete mathematical concepts and techniques needed in computer-related disciplines. Graph theory, algebraic structures and linear algebra. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-338",
+	    "course_name": "Statistics Applied to Natural Sciences",
+	    "units": 4.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Mathematics Requirements",
+	    "prerequisite": "Math 130 or Math 150B",
+	    "corequisite": "N/A",
+	    "description": "Introduction to the theory and application of statistics. Elementary probability, estimation, hypothesis testing, regression, variance analysis, non-parametric tests. Computer-aided analysis of real data. Graphical techniques, generating and interpreting statistical output, presentation of analysis. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "BIOL-101",
+	    "course_name": "Elements of Biology",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "N/A",
+	    "corequisite": "N/A",
+	    "description": "Underlying principles governing life forms, processes and interactions. Elements of biology and reasoning skills for understanding scientific issues on personal, societal and global levels. For non-science majors. No credit toward biological science major. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "BIOL-101L",
+	    "course_name": "Elements of Biology Laboratory",
+	    "units": 1.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "BIOL 101 or BIOL 103",
+	    "corequisite": "BIOL 101 or BIOL 103",
+	    "description": "Laboratory experiments demonstrating principles from the lecture course. Scientific inquiry, cells, physiology, genetics, biodiversity, evolution and ecology. Hybrid sections require online and in-person activities (3 hours laboratory or fieldwork; weekend field trips and online coursework may be required). For non-science majors. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "BIOL-151",
+	    "course_name": "Cellular and Molecular Biology",
+	    "units": 4.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "N/A",
+	    "corequisite": "N/A",
+	    "description": "Lecture and laboratory exploration of eukaryotic/prokaryotic cellular structure and function, biological molecules, classical/Mendelian genetics, regulation of gene expression and biotechnology, cell signaling, metabolic pathways, the process and regulation of cellular reproduction, evolution of multicellularity. (For majors in CNSM). (3 hours lecture, 3 hours laboratory) For non-science majors. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "BIOL-152",
+	    "course_name": "Evolution and Organismal Biology",
+	    "units": 4.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "BIOL 151 with a C (2.0) or better.",
+	    "corequisite": "N/A",
+	    "description": "Introduction to evolution and organismal biology. Evolutionary processes that resulted in the biodiversity of life on Earth. Physiological processes and ecological challenges for organisms. (3 hours lecture, 3 hours laboratory/fieldwork; weekend field trips required). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CHEM-120A",
+	    "course_name": "General Chemistry",
+	    "units": "5",
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "CHEM 115 with a C (2.0) or better; or pass the chemistry placement examination.",
+	    "corequisite": "N/A",
+	    "description": "For majors and minors in the physical and biological sciences. The principles of chemistry: stoichiometry, acids, bases, redox reactions, gas laws, solid and liquid states, changes of state, modern atomic concepts, periodicity and chemical bonding. Laboratory: elementary syntheses, spectroscopy and volumetric quantitative analysis. (3 hours lecture, 3 hours laboratory, 2 hours activity). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CHEM-120B",
+	    "course_name": "General Chemistry",
+	    "units": "5",
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "CHEM 120A with a C (2.0) or better.",
+	    "corequisite": "N/A",
+	    "description": "For majors and minors in the physical and biological sciences, chemical thermodynamics, chemical equilibrium (gaseous, aqueous, acid-base, solubility and complexation), elementary electrochemistry and chemical kinetics. Laboratory: quantitative and qualitative analysis and elementary physical chemistry; some qualitative analysis. (3 hours lecture, 6 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CHEM-123",
+	    "course_name": "Chemistry for Engineers",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "MATH 125  or MATH 150A.",
+	    "corequisite": "N/A",
+	    "description": "Fundamental concepts of chemistry for engineering students. Atomic structure, periodic table, stoichiometry, states of matter, chemical bonding, new materials, solutions, thermodynamics, reaction rates, equilibrium, electrochemistry, polymers and nuclear reactions. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CHEM-125",
+	    "course_name": "General Chemistry B Lecture",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "CHEM 120A or CHEM 123; all with a C (2.0) or better.",
+	    "corequisite": "N/A",
+	    "description": "For students who do not need a second semester of general chemistry lab. Chemical thermodynamics, chemical equilibrium (gaseous, aqueous, acid-base, solubility and complexion), elementary electrochemistry and chemical kinetics. Not open to students with credit in CHEM 120B. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "GEOL-101",
+	    "course_name": "Introduction to Geology",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "N/A",
+	    "corequisite": "N/A",
+	    "description": "Introduction to the science of rocks, fossils, volcanoes, earthquakes, landscapes and oceans. Natural hazards, geology in everyday life and geology as field of practice. High school algebra recommended. One or more sections may be offered in any online format. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "GEOL-101L",
+	    "course_name": "Introduction to Geology Laboratory",
+	    "units": 1.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "GEOL 101 or GEOL 110T.",
+	    "corequisite": "GEOL 101 or GEOL 110T.",
+	    "description": "Hands-on analysis and evaluation of rocks, maps, geologic time and Earth processes. Natural hazards, geology in everyday life and scientific inquiry. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "GEOL-201",
+	    "course_name": "Earth History",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "GEOL 101L or GEOL 102.",
+	    "corequisite": "GEOL 101L or GEOL 102.",
+	    "description": "Evolution of Earth as interpreted from rocks, fossils and geologic structures. Plate tectonics provides a unifying theme for consideration of mountain building, evolution of life and ancient environments. (2 hours lecture, 3 hours laboratory, field trips). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "GEOL-201L",
+	    "course_name": "Earth History Supplemental Lab",
+	    "units": 1.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "N/A",
+	    "corequisite": "GEOL 201.",
+	    "description": "Supervised research on topics related to Earth history. Project will result in a term paper and/or web page. (3 hours laboratory, field trips). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-250A",
+	    "course_name": "Calculus III",
+	    "units": 4.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "MATH 150B",
+	    "corequisite": "N/A",
+	    "description": "Calculus of functions of several variables. Partial derivatives and multiple integrals with applications. Parametric curves, vector-valued functions, vector fields, line integrals, Green’s Theorem, Stokes’ theorem, the Divergence Theorem, vectors and the geometry of 3-space. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-250B",
+	    "course_name": "Introduction to Linear Algebra and Differential Equations",
+	    "units": 4.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "MATH 250A",
+	    "corequisite": "N/A",
+	    "description": "Introduction to the solutions of ordinary differential equations and their relationship to linear algebra. Topics include matrix algebra, systems of linear equations, vector spaces, linear independence, linear transformations and eigenvalues. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "PHYS-225",
+	    "course_name": "Fundatmental Physics: Mechanics",
+	    "units": 3.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "MATH 150A with a C- (1.7) or better.",
+	    "corequisite": "PHYS 225L",
+	    "description": "Classical Newtonian mechanics; linear and circular motion; energy; linear/angular momentum; systems of particles; rigid body motion; wave motion and sound. Undergraduate Course not available for Graduate Credit"
+	  },
+	 {
+	    "id": "PHYS-225L",
+	    "course_name": "Fundatmental Physics: Laboratory",
+	    "units": 1.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "N/A",
+	    "corequisite": "PHYS 225",
+	    "description": "Laboratory for PHYS 225. Instructional fee required. (3 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "PHYS-226",
+	    "course_name": "Fundatmental Physics: Electricity and Magnetism",
+	    "units": 3.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": " MATH 150B, PHYS 225 with a C (2.0) or better.",
+	    "corequisite": "PHYS 226L",
+	    "description": "Electrostatics, electric potential, capacitance, dielectrics, electrical circuits, resistance, emf, electromagnetic induction, magnetism and magnetic materials, and introduction to Maxwell’s equations. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "PHYS-226L",
+	    "course_name": "Fundatmental Physics: Laboratory",
+	    "units": 1.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "N/A",
+	    "corequisite": "PHYS 226",
+	    "description": "Laboratory for PHYS 226. Instructional fee required. (3 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "PHYS-227",
+	    "course_name": "Fundatmental Physics: Waves, Optics, and Modern Physics",
+	    "units": 3.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "N/A",
+	    "corequisite": "PHYS 227",
+	    "description": "Laboratory for PHYS 227. Instructional fee required. (3 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+
+	  {
+	    "id": "PHYS-227L",
+	    "course_name": "Fundatmental Physics: Laboratory",
+	    "units": 1.0,
+	    "difficulty_level": "3",
+	    "requirement_type": "Science and Mathematics Electives",
+	    "prerequisite": "N/A",
+	    "corequisite": "PHYS 227",
+	    "description": "Laboratory for PHYS 227. Instructional fee required. (3 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-254",
+	    "course_name": "Software Development with Open Source Systems",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 131; Computer Science or Computer Engineering major or minor.",
+	    "corequisite": "N/A",
+	    "description": "Philosophy of open source software development, open source operating systems such as Linux; open source development tools; open source programming languages, such as Python; open source software development processes; open source software licensing issues. (2 hours lecture, 2 hours laboratory). Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-301",
+	    "course_name": "Programmin Lab Practicum",
+	    "units": "2",
+	    "difficulty_level": "3",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 131; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Intensive programming covering concepts learned in lower-division courses. Procedural and object oriented design, documentation, arrays, classes, file input/output, recursion, pointers, dynamic variables, data and file structures. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-349",
+	    "course_name": "Web Front-End Engineering",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 131 or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Concepts and architecture of interactive web applications, including markup, stylesheets and behavior. Functional and object-oriented aspects of JavaScript. Model-view design patterns, templates and frameworks. Client-side technologies for asynchronous events, real-time interaction and access to back-end web services. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-375",
+	    "course_name": "Introduction to Data Science and Big Data",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 131, MATH 338",
+	    "corequisite": "N/A",
+	    "description": "Techniques for data preparation, exploratory analysis, statistical modeling, machine learning and visualization. Methods for analyzing different types of data, such as natural language and time-series, from emerging applications, including Internet-of-Things. Big data platforms. Projects with real-world data. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-386",
+	    "course_name": "Introduction to Game Design and Production",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 121; completion of G.E. Category B.4; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Current and future technologies and market trends in game design and production. Game technologies, basic building tools for games and the process of game design, development and production. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-411",
+	    "course_name": "Mobile Device Application Programming",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 131 or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Introduction to developing applications for mobile devices, including but not limited to runtime environments, development tools and debugging tools used in creating applications for mobile devices. Use emulators in lab. Students must provide their own mobile devices. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-431",
+	    "course_name": "Database and Applications",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 332; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Database design and application development techniques for a real world system. System analysis, requirement specifications, conceptual modeling, logic design, physical design and web interface development. Develop projects using contemporary database management system and web-based application development platform. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-439",
+	    "course_name": "Theory of Computation",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 121 or MATH 320; MATH 270B or MATH 280; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Introduction to the theory of computation. Automata theory; finite state machines, context free grammars, and Turing machines; hierarchy of formal language classes. Computability theory and undecidable problems. Time complexity; P and NP-complete problems. Applications to software design and security. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-440",
+	    "course_name": "Computer System Architecture",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "Upper Division",
+	    "prerequisite": "CPSC 240; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Computer performance, price/performance, instruction set design and examples. Processor design, pipelining, memory hierarchy design and input/output subsystems. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-449",
+	    "course_name": "Web Back-End Engineering",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 332 or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Design and architecture of large-scale web applications. Techniques for scalability, session management and load balancing. Dependency injection, application tiers, message queues, web services and REST architecture. Caching and eventual consistency. Data models, partitioning and replication in relational and non-relational databases. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-452",
+	    "course_name": "Cryptography",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "MATH 270B, CPSC 131; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Introduction to cryptography and steganography. Encryption, cryptographic hashing, certificates, and signatures. Classical, symmetric-key, and public-key ciphers. Block modes of operation. Cryptanalysis including exhaustive search, man-in-the-middle, and birthday attacks. Programing projects involving implementation of cryptographic systems. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-454",
+	    "course_name": "Cloud Computing and Security",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 351, CPSC 353; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Cloud computing and cloud security, distributed computing, computer clusters, grid computing, virtual machines and virtualization, cloud computing platforms and deployment models, cloud programming and software environments, vulnerabilities and risks of cloud computing, cloud infrastructure protection, data privacy and protection. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-455",
+	    "course_name": "Web Security",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 351 or CPSC 353; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Concepts of web application security. Web security mechanisms, including authentication, access control and protecting sensitive data. Common vulnerabilities, including code and SQL attacks, cross-site scripting and cross-site request forgery. Implement hands-on web application security mechanisms and security testing. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-456",
+	    "course_name": "Network Security Fundamentals",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 351; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Learn about vulnerabilities of network protocols, attacks targeting confidentiality, integrity and availability of data transmitted across networks, and methods for diagnosing and closing security gaps through hands-on exercises. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-458",
+	    "course_name": "Malware Analysis",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 351 or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Introduction to principles and practices of malware analysis. Topics include static and dynamic code analysis, data decoding, analysis tools, debugging, shellcode analysis, reverse engineering of stealthy malware and written presentation of analysis results. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-459",
+	    "course_name": "Blockchain Technologies",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 351, CPSC 353 or CPSC 452; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Digital assets as a medium of exchange to secure financial transactions; decentralized and distributed ledgers that record verifiable transactions; smart contracts and Ethereum; Bitcoin mechanics and mining; the cryptocurrency ecosystem; blockchain mechanics and applications. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-462",
+	    "course_name": "Software Design",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 362; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Concepts of software modeling, software process and some tools. Object-oriented analysis and design and Unified process. Some computer-aided software engineering (CASE) tools will be recommended to use for doing homework assignments. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-463",
+	    "course_name": "Software Testing",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 362; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Software testing techniques, reporting problems effectively and planning testing projects. Students apply what they learned throughout the course to a sample application that is either commercially available or under development. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-464",
+	    "course_name": "Software Architecture",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 362; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Basic principles and practices of software design and architecture. High-level design, software architecture, documenting software architecture, software and architecture evaluation, software product lines and some considerations beyond software architecture. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-466",
+	    "course_name": "Software Process",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 362 or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Practical guidance for improving the software development process. How to establish, maintain and improve software processes. Exposure to agile processes, ISO 12207 and CMMI. One or more sections may be offered in any online format. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-474",
+	    "course_name": "Parallel and Distributed Computing",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 351; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Concepts of distributed computing; distributed memory and shared memory architectures; parallel programming techniques; inter-process communication and synchronization; programming for parallel architectures such as multi-core and GPU platforms; project involving distributed application development. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-483",
+	    "course_name": "Introduction to Machine Learning",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 335, MATH 338; Computer Science or Computer Engineering major or minor; or Computer Science or Computer engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Design, implement and analyze machine learning algorithms, including supervised learning and unsupervised learning algorithms. Methods to address uncertainty. Projects with real-world data. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-484",
+	    "course_name": "Principles of Computer Graphics",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 131, MATH 150B, MATH 270B, junior or senior standing; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Examine and analyze computer graphics, software structures, display processor organization, graphical input/output devices, display files. Algorithmic techniques for clipping, windowing, character generation and viewpoint transformation. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-485",
+	    "course_name": "Computational Bioinformatics",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 131; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Algorithmic approaches to biological problems. Specific topics include motif finding, genome rearrangement, DNA sequence comparison, sequence alignment, DNA sequencing, repeat finding and gene expression analysis. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-486",
+	    "course_name": "Game Programming",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 386, CPSC 484; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Survey of data structures and algorithms used for real-time rendering and computer game programming. Build upon existing mathematics and programming knowledge to create interactive graphics programs. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-489",
+	    "course_name": "Game Development Project",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "CPSC 486; Computer Science or Computer Engineering major or minor; or Computer Science or Computer Engineering graduate standing.",
+	    "corequisite": "N/A",
+	    "description": "Individually or in teams, students design, plan and build a computer game. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "CPSC-499",
+	    "course_name": "Independent Study",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "Department Consent Required",
+	    "corequisite": "N/A",
+	    "description": "Special topic in computer science, selected in consultation with and completed under the supervision of instructor. May be repeated for a maximum of 9 units of Undergraduate credit and 6 units of Graduate credit. Requires approval by the Computer Science chair. 400-level Undergraduate Course available for Graduate Credit"
+	  },
+	  {
+	    "id": "EGGN-495",
+	    "course_name": "Professional Practice",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "Engineering major; junior or senior standing.",
+	    "corequisite": "N/A",
+	    "description": "Professional engineering work in industry or government. Written report required. May be taken for credit for a maximum of three units. Applicable towards bachelor’s degree programs. Not for credit in the graduate program. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-335",
+	    "course_name": "Mathematical Probability",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "MATH 250A with a C (2.0) or better.",
+	    "corequisite": "N/A",
+	    "description": "Probability theory; discrete, continuous and multivariate probability distributions, independence, conditional probability distribution, expectation, moment generating functions, functions of random variables and the central limit theorem. One or more sections may be offered in any online format. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-340",
+	    "course_name": "Numerical Analysis",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "MATH 250B; MATH 320, CPSC 120 or CPSC 121.",
+	    "corequisite": "N/A",
+	    "description": "Approximate numerical solutions of systems of linear and nonlinear equations, interpolation theory, numerical differentiation and integration, numerical solution of ordinary differential equations. Computer coding of numerical methods. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "MATH-370",
+	    "course_name": "Mathematical Model Building",
+	    "units": 3.0,
+	    "difficulty_level": "2",
+	    "requirement_type": "CPSC Elective",
+	    "prerequisite": "MATH 250B; MATH 320, CPSC 120 or CPSC 121.",
+	    "corequisite": "N/A",
+	    "description": "Introduction to mathematical models in science and engineering: dimensional analysis, discrete and continuous dynamical systems, flow and diffusion models. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "HONR-201B",
+	    "course_name": "Honors Seminar: American Institutions and Values since 1900",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Graduation Requirement",
+	    "prerequisite": "Student must be in the Honors Program.",
+	    "corequisite": "N/A",
+	    "description": "Critically examines the historical development of American institutions and values, including American political culture and constitutional system. Specific attention to cultural diversity, particularly race, ethnicity, gender, and class, exploring the interaction, conflict, and cooperation of diverse groups in historical context. Undergraduate Course not available for Graduate Credit"
+	  },
+	  {
+	    "id": "POSC-100",
+	    "course_name": "American Government",
+	    "units": 3.0,
+	    "difficulty_level": "1",
+	    "requirement_type": "Graduation Requirement",
+	    "prerequisite": "N/A",
+	    "corequisite": "N/A",
+	    "description": "People, their politics, and power; contemporary issues, changing political styles and processes, institution and underlying values of the American political system. Satisfies state requirements in U.S. Constitution and California State and local government. One or more sections may be offered in any online format. Undergraduate Course not available for Graduate Credit"
+	  }
+	]
+}

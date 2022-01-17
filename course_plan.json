@@ -1,0 +1,240 @@
+{	
+	"courses":[
+	  {
+	    "id": "CPSC-120",
+	    "course_name": "Intro to Programming",
+	    "units": 3,
+	    "row": 1
+	  },
+	  {
+	    "id": "MATH-270A",
+	    "course_name": "Mathematical Structures I",
+	    "units": 3,
+	    "row": 2
+	  },
+	  {
+	    "id": "MATH-150A",
+	    "course_name": "Calculus I",
+	    "units": 4,
+	    "row": 3
+	  },
+	  {
+	    "id": "GE-A1",
+	    "course_name": "General Education A.1",
+	    "units": 3,
+	    "row": 4
+	  },
+	  {
+	    "id": "GE-A2",
+	    "course_name": "General Education A.2",
+	    "units": 3,
+	    "row": 5
+	  },
+	  {
+	    "id": "CPSC-121",
+	    "course_name": "Object-Oriented Programming",
+	    "units": 3,
+	    "row": 1
+	    
+	  },
+	  {
+	    "id": "MATH-270B",
+	    "course_name": "Mathematical Structures II",
+	    "units": 3,
+	    "row": 2
+	  },
+	  {
+	    "id": "MATH-150B",
+	    "course_name": "Calculus II",
+	    "units": 4,
+	    "row": 3
+	  },
+	  {
+	    "id": "GE-C1",
+	    "course_name": "General Education C.1",
+	    "units": 3,
+	    "row": 4
+	  },
+	  {
+	    "id": "GE-C2",
+	    "course_name": "General Education C.2",
+	    "units": 3,
+	    "row": 5
+	  },
+	  {
+	    "id": "CPSC-131",
+	    "course_name": "Data Structures",
+	    "units": 3,
+	    "row": 1    
+	  },
+	  {
+	    "id": "SME-1",
+	    "course_name": "Science & Math Elective I(at least 1 unit of lab)",
+	    "units": 4,
+	    "row": 2
+	  },
+	  {
+	    "id": "GE-C3",
+	    "course_name": "General Education C.3",
+	    "units": 3,
+	    "row": 3
+	  },
+	  {
+	    "id": "GE-Z",
+	    "course_name": "General Education Z",
+	    "units": 3,
+	    "row": 3
+	  },
+	  {
+	    "id": "GE-D1",
+	    "course_name": "General Education D.1",
+	    "units": 3,
+	    "row": 4
+	  },
+	  {
+	    "id": "GE-D2",
+	    "course_name": "General Education D.2",
+	    "units": 3,
+	    "row": 5
+	  },
+	  {
+	    "id": "CPSC-223",
+	    "course_name": "Other Programming Language",
+	    "units": 3,
+	    "row": 1
+	    
+	  },
+	  {
+	    "id": "CPSC-240",
+	    "course_name": "Computer Organization and Assembly",
+	    "units": 3,
+	    "row": 2
+	  },
+	  {
+	    "id": "SME-2",
+	    "course_name": "Science & Math Elective II",
+	    "units": 4,
+	    "row": 3
+	  },
+	  {
+	    "id": "SME-3",
+	    "course_name": "Science & Math Elective III",
+	    "units": 4,
+	    "row": 4
+	  },
+	  {
+	    "id": "GE-D3",
+	    "course_name": "General Education D.3",
+	    "units": 3,
+	    "row": 5
+	  },
+	  {
+	    "id": "CPSC-351",
+	    "course_name": "Operating Systems Concepts",
+	    "units": 3,
+	    "row": 1
+	  },
+	  {
+	    "id": "CPSC-311",
+	    "course_name": "Technical Writing",
+	    "units": 3,
+	    "row": 2
+	  },
+	  {
+	    "id": "CPSC-332",
+	    "course_name": "File Structures and Databases",
+	    "units": 3,
+	    "row": 3
+	  },
+	  {
+	    "id": "MATH-338",
+	    "course_name": "Statistics Applied to Natural Sciences",
+	    "units": 4,
+	    "row": 4
+	  },
+	  {
+	    "id": "CSE-1",
+	    "course_name": "CPSC Elective I",
+	    "units": 3,
+	    "row": 5
+	  },
+	  {
+	    "id": "CPSC-335",
+	    "course_name": "Algorithm Engineering",
+	    "units": 3,
+	    "row": 1
+	  },
+	  {
+	    "id": "CPSC-471",
+	    "course_name": "Computer Communications",
+	    "units": 3,
+	    "row": 2
+	  },
+	  {
+	    "id": "CPSC-362",
+	    "course_name": "Foundations of Software Engineering",
+	    "units": 3,
+	    "row": 3
+	  },
+	  {
+	    "id": "CSE-2",
+	    "course_name": "CPSC Elective II",
+	    "units": 3,
+	    "row": 4
+	  },
+	  {
+	    "id": "GE-C4",
+	    "course_name": "General Education C.1 or C.2",
+	    "units": 3,
+	    "row": 5
+	  },
+	  {
+	    "id": "CPSC-323",
+	    "course_name": "Compilers and Languages",
+	    "units": 3,
+	    "row": 1
+	  },
+	  {
+	    "id": "CPSC-481",
+	    "course_name": "Artificial Intelligence",
+	    "units": 3,
+	    "row": 2
+	  },
+	  {
+	    "id": "CSE-3",
+	    "course_name": "CPSC Elective III",
+	    "units": 3,
+	    "row": 3
+	  },
+	  {
+	    "id": "CSE-4",
+	    "course_name": "CPSC Elective IV",
+	    "units": 3,
+	    "row": 4
+	  },
+	  {
+	    "id": "CPSC-315",
+	    "course_name": "Professional Ethics in Computing",
+	    "units": 3,
+	    "row": 1
+	  },
+	  {
+	    "id": "CPSC-440",
+	    "course_name": "Computer Architecture",
+	    "units": 3,
+	    "row": 2
+	  },
+	  {
+	    "id": "CSE-5",
+	    "course_name": "CPSC Elective V",
+	    "units": 3,
+	    "row": 3
+	  },
+	  {
+	    "id": "CSE-6",
+	    "course_name": "CPSC Elective VI",
+	    "units": 3,
+	    "row": 4
+	  }
+	]
+}

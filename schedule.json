@@ -1,0 +1,26 @@
+[
+  {
+    "id": "CPSC-323",
+    "course_name": "Compilers and Languages",
+    "units": 3,
+    "row": 1
+  },
+  {
+    "id": "CPSC-481",
+    "course_name": "Artificial Intelligence",
+    "units": 3,
+    "row": 2
+  },
+  {
+    "id": "CPSC-362",
+    "course_name": "Foundations of Software Engineering",
+    "units": 3,
+    "row": 3
+  },
+  {
+    "id": "CSE-6",
+    "course_name": "CPSC Elective VI",
+    "units": 3,
+    "row": 4
+  }
+]
