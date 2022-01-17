@@ -17,3 +17,5 @@ JSON Handling.py uses these json's to create json objects for future use.
 
 Pulling this information together:
 Students_Courses.py creates a schedule stored in schedule.json - see this file for more in-depth comments
+
+For the purposes of privacy, I have removed audits.
